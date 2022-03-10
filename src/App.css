@@ -1,38 +1,57 @@
-.App {
+.FormTT
+{
+  width: 40%;
+  border: 1px solid black;
+}
+.FormCT
+{
+  width: 60%;
+  border: 1px solid black;
+}
+.Form
+{
+  width: 100%;
+  padding-bottom: 20px;
+}
+.FormDH
+{
+  width: 100%;
+  padding-bottom: 40px;
+}
+.DangXL
+{
+  margin: auto;
+  background-color: blue;
+  text-align: center;
+  width: 50%;
+  padding:0 20px;
+  color: red;
+}
+.DangXL1
+{
+  background-color: aliceblue;
+}
+.HoanThanh1
+{
+  background-color: aliceblue;
+}
+.HoanThanh
+{
+  background-color: blue;
+  text-align: center;
+  width: 50%;
+  color: red;
+}
+.DanhSach
+{
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.DatHang
+{
+background-color: blue;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.ChiTietHD
+{
+  border: 1px solid black;
 }

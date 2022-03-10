@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Son",
+      "CMND": "123",
+      "date": "02/02/1999",
+      "address":"Quang Nam",
+      "TenHang":"Hoa",
+      "SoLuong":"2",
+      "DonGia":"20000"
+    },
+    {
+        "name": "Thuong",
+        "CMND": "123",
+        "date": "02/02/1999",
+        "address":"Quang Nam",
+        "TenHang":"Hoa",
+        "SoLuong":"2",
+        "DonGia":"20000"
+    }
+  ]
